@@ -1,1 +1,1 @@
-# Course work during Summer Analytics
+# The Course work during Summer Analytics
